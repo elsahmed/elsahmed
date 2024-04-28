@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I'm Elsa!
+# 👋🏽 Hi, I'm Elsa!
 
 &emsp;&emsp;📖 I'm currently a second year <b/>Computer Science</b> student from Toronto Metropolitan University<br/>
 &emsp;&emsp;👩🏽‍💻 I’m interested in <b/>Data Science, AI, ML, Software Development</b> and more!<br/>
@@ -44,12 +44,13 @@
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ### ⚙️ Operating Systems
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
 <!-- # 📊 GitHub Stats: -->
 ![Elsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsahmed&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elsahmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
